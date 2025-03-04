@@ -1,2 +1,3 @@
-# ant-foraging-ml-research
-This repository contains the code, simulations, and research materials for my undergraduate research project on modeling and optimizing ant foraging behavior.
+# Optimizing Ant Foraging Paths Using Numerical Methods and Machine Learning
+
+This repository contains the code, simulations, and research materials for my undergraduate research project on modeling and optimizing ant foraging behavior. The project combines **numerical methods** to simulate pheromone trails, **machine learning** (reinforcement learning) to optimize foraging paths, and I'm also trying to incoperate genetic algorithms in the model for advancements in this research area. The goal is to study how ants efficiently locate food sources and apply these principles to real-world optimization problems.
